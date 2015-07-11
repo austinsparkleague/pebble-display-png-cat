@@ -1,0 +1,88 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "scottybrackett@gmail.com",
+    "longName": "cat_pic",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/cat_opaque.png",
+                "name": "CAT_PIC",
+                "type": "png"
+            },
+            {
+                "file": "images/IMG_0274.PNG",
+                "name": "BARF_12",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/IMG_0273.PNG",
+                "name": "BARF_11",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/IMG_0272.PNG",
+                "name": "BARF_10",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/IMG_0271.PNG",
+                "name": "BARF_09",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/IMG_0270.PNG",
+                "name": "BARF_08",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/IMG_0269.PNG",
+                "name": "BARF_07",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/IMG_0268.PNG",
+                "name": "BARF_06",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/IMG_0267.PNG",
+                "name": "BARF_05",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/IMG_0266.PNG",
+                "name": "BARF_04",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/IMG_0265.PNG",
+                "name": "BARF_03",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/IMG_0264.PNG",
+                "name": "BARF_02",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/IMG_0263.PNG",
+                "name": "BARF_01",
+                "type": "png-trans"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "cat_pic",
+    "targetPlatforms": [
+        "aplite"
+    ],
+    "uuid": "285ed934-244c-4109-8d5e-f86618bf331a",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
